@@ -1,0 +1,8 @@
+{
+    "AccessKey": "ZRXF54nOYGmh1_yon3cgysTwRgFljc-qVy-7nTyI",  // https://portal.qiniu.com/user/key
+    "SecretKey": "0fY9eL0Y5c8F4QTa9R8W2Nu5wwFQLDM_8rGQOwX_",
+    "Bucket": "music",
+    "Port": 9000,
+    "UptokenUrl": "uptoken",
+    "Domain": "<Your Bucket Domain>" // bucket domain eg:http://qiniu-plupload.qiniudn.com/
+}

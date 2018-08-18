@@ -1,0 +1,8 @@
+{
+    "AccessKey": "ZRXF54nOYGmh1_yon3cgysTwRgFljc-qVy-7nTyI",  
+    "SecretKey": "0fY9eL0Y5c8F4QTa9R8W2Nu5wwFQLDM_8rGQOwX_",
+    "Bucket": "music",
+    "Port": 8080,
+    "UptokenUrl": "uptoken",
+    "Domain": "<Your Bucket Domain>" 
+}
